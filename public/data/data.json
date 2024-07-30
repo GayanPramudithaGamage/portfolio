@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "name": "Portfolio Website",
+      "technologies": ["ReactJS", "Tailwind CSS"],
+      "image": "/assets/portfolio.png",
+      "url":"https://www.google.co.uk/",
+      "github":"https://github.com/GayanPramudithaGamage/portfolio.git"
+    },
+    {
+      "id": 2,
+      "name": "Go Ride",
+      "technologies": ["ReactJS", "NodeJS", "ExpressJS", "MongoDB"],
+      "image": "/assets/goride.jpg",
+      "url":"https://www.google.co.uk/",
+      "github":"https://github.com/GayanPramudithaGamage/GoRide.git"
+    },
+    {
+      "id": 3,
+      "name": "Book Store",
+      "technologies": ["ReactJS", "NodeJS", "ExpressJS", "MongoDB"],
+      "image": "/assets/bookshop.jpg",
+      "url":"https://www.google.co.uk/",
+      "github":"https://github.com/GayanPramudithaGamage/bookshopclient.git"
+    }
+  ]
+}
